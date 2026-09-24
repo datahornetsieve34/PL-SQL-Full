@@ -1,0 +1,23 @@
+{
+  "repo": "pl-sql-full",
+  "product": "PL SQL Full",
+  "kind": "developer",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "ide-tools",
+  "topics": [
+    "pl-sql",
+    "pl-windows",
+    "ide-tools-desktop",
+    "how-to-install-pl",
+    "pl-sql-desktop-package",
+    "pl-workspace",
+    "pl-sql-pro-tools",
+    "pl-suite",
+    "zentool-pl",
+    "pl-sql-tool-9"
+  ],
+  "site": "zentool.art"
+}
